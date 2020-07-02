@@ -6,5 +6,6 @@ cd ~/dotfiles
 ./makesymlinks.sh
 ```
 linux
-```TODO
+```
+TODO
 ```
